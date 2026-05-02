@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/soul2209/soul2209/main/banner.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/soul2209/soul2209/main/banner.jpg?v=2" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Dawn</h1>
