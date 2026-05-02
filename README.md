@@ -6,16 +6,20 @@
 <h3 align="center">Aspiring Software Engineer | Future Japan 🇯🇵</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Building+Cool+Projects;Learning+DSA+%26+Development;Future+Software+Engineer+in+Japan" />
+  💡 "Building systems, not just projects"
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Building+Real+World+Projects;Learning+DSA+%26+Development;Future+Software+Engineer+in+Japan" />
 </p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 B.E Computer Science  
-- 💻 Building real-world projects  
+- 💻 Focused on building real-world, practical systems  
 - 🎮 Interested in Game Development  
-- 🇯🇵 Goal: Work in Japan  
+- 🇯🇵 Goal: Work in Japan through MEXT pathway  
 
 ---
 
@@ -27,10 +31,27 @@
 
 ---
 
-## 📌 Projects
-- 🏦 Banking Management System  
-- 🌡️ Urban Heat Island Analyzer  
-- 🏥 Hospital Queue System  
+## 📌 Featured Projects
+
+### 🏦 Banking Management System
+- OOP-based terminal banking system  
+- Features: deposits, withdrawals, transfers, fraud detection  
+- Includes transaction history, receipts, and monthly analysis  
+- Tech: Python, File Handling  
+
+---
+
+### 🌡️ Urban Heat Island Analyzer
+- Interactive tool to simulate urban heat effects  
+- Helps visualize temperature differences in cities  
+- Focused on environmental awareness and planning  
+
+---
+
+### 🏥 Hospital Queue System
+- Queue management system using DSA concepts  
+- Simulates real-world hospital patient flow  
+- Focus on efficiency and structured data handling  
 
 ---
 
@@ -41,3 +62,15 @@
   <br/>
   <img src="https://streak-stats.demolab.com?user=soul2209&theme=tokyonight" />
 </p>
+
+---
+
+## 🚀 Currently Improving
+- Data Structures & Algorithms  
+- System Design Basics  
+- Game Development  
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/soul2209
